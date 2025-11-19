@@ -1,11 +1,11 @@
 city,promise_id,promise_description,due_date,status,latitude,longitude,category
-City A,A001,Fix potholes on Main St,20-11-2025,due,40.7128,-74.006,Roads
-City A,A002,Restore water pressure in downtown,30-11-2025,due,40.7128,-74.006,Water
-City A,A003,Repair broken streetlight on 5th Ave,15-10-2025,late,40.7128,-74.006,Power
-City B,B001,Ensure park lighting is operational,25-11-2025,due,34.0522,-118.2437,Power
-City B,B002,Resolve sewage block on Elm St,28-10-2025,late,34.0522,-118.2437,Water
-City C,C001,Repave Oak St,15-12-2025,on-time,41.8781,-87.6298,Roads
-City C,C002,Fix water leakage on 1st St,10-11-2025,late,41.8781,-87.6298,Water
+New Orleans,A001,Fix potholes on Main St,20-11-2025,due,40.7128,-74.006,Roads
+Portland,A002,Restore water pressure in downtown,30-11-2025,due,40.7128,-74.006,Water
+Baltimore,A003,Repair broken streetlight on 5th Ave,15-10-2025,late,40.7128,-74.006,Power
+Boston,B001,Ensure park lighting is operational,25-11-2025,due,34.0522,-118.2437,Power
+Detroit,B002,Resolve sewage block on Elm St,28-10-2025,late,34.0522,-118.2437,Water
+Minneapolis,C001,Repave Oak St,15-12-2025,on-time,41.8781,-87.6298,Roads
+Jackson,C002,Fix water leakage on 1st St,10-11-2025,late,41.8781,-87.6298,Water
 Wilmington,A004,Upgrade stormwater drains on Market St,05-12-2025,on-time,38.910832,-75.52767,Water
 Miami,A005,Repair traffic signals at Biscayne Blvd,22-11-2025,due,27.994402,-81.760254,Power
 Atlanta,A006,Resurface Peachtree Rd,12-12-2025,on-time,32.157435,-82.907123,Roads
