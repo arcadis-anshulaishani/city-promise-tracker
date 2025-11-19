@@ -1,0 +1,9 @@
+dash
+pandas
+folium
+dash-bootstrap-components
+markdown2
+python-dotenv
+google-generativeai
+gunicorn
+nest-asyncio

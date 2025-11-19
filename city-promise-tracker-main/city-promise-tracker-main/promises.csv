@@ -1,0 +1,58 @@
+city,promise_id,promise_description,due_date,status,latitude,longitude,category
+City A,A001,Fix potholes on Main St,20-11-2025,due,40.7128,-74.006,Roads
+City A,A002,Restore water pressure in downtown,30-11-2025,due,40.7128,-74.006,Water
+City A,A003,Repair broken streetlight on 5th Ave,15-10-2025,late,40.7128,-74.006,Power
+City B,B001,Ensure park lighting is operational,25-11-2025,due,34.0522,-118.2437,Power
+City B,B002,Resolve sewage block on Elm St,28-10-2025,late,34.0522,-118.2437,Water
+City C,C001,Repave Oak St,15-12-2025,on-time,41.8781,-87.6298,Roads
+City C,C002,Fix water leakage on 1st St,10-11-2025,late,41.8781,-87.6298,Water
+Wilmington,A004,Upgrade stormwater drains on Market St,05-12-2025,on-time,38.910832,-75.52767,Water
+Miami,A005,Repair traffic signals at Biscayne Blvd,22-11-2025,due,27.994402,-81.760254,Power
+Atlanta,A006,Resurface Peachtree Rd,12-12-2025,on-time,32.157435,-82.907123,Roads
+Honolulu,B003,Renovate public restrooms at Ala Moana Park,30-11-2025,due,19.896766,-155.582782,Water
+Boise,B004,Install LED streetlights on Fairview Ave,10-12-2025,late,44.068202,-114.742041,Power
+Chicago,C003,Patch potholes on Michigan Ave,18-11-2025,late,40.633125,-89.398528,Roads
+Indianapolis,C004,Replace water mains under Meridian St,27-11-2025,on-time,40.551217,-85.602364,Water
+Des Moines,A007,Repair downed power lines on Grand Ave,09-12-2025,late,41.878003,-93.097702,Power
+Wichita,A008,Repave Central Ave,25-10-2025,late,39.011902,-98.484246,Roads
+Louisville,A009,Fix water leakage at Bardstown Rd,15-12-2025,late,37.839333,-84.270018,Water
+New Orleans,B005,Upgrade street lighting on Magazine St,20-12-2025,due,30.984298,-91.962333,Power
+Portland,B006,Fill potholes on Congress St,11-11-2025,due,45.253783,-69.445469,Roads
+Baltimore,C005,Restore water pressure in Inner Harbor,05-12-2025,on-time,39.045755,-76.641271,Water
+Boston,C006,Upgrade traffic signals at Commonwealth Ave,16-12-2025,late,42.407211,-71.382437,Power
+Detroit,A010,Repave Woodward Ave,08-12-2025,late,44.314844,-85.602364,Roads
+Minneapolis,A011,Repair damaged hydrants on Hennepin Ave,06-12-2025,due,46.729553,-94.6859,Water
+Jackson,A012,Upgrade substation for stable power on Pearl St,13-11-2025,on-time,32.354668,-89.398528,Power
+St. Louis,B007,Resurface Lindell Blvd,22-12-2025,due,37.964253,-91.831833,Roads
+Billings,B008,Fix water leakage on Montana Ave,29-11-2025,late,46.879682,-110.362566,Water
+Omaha,C007,Repair streetlights on Dodge St,03-12-2025,due,41.492537,-99.901813,Power
+Las Vegas,C008,Fill potholes on Flamingo Rd,18-12-2025,late,38.80261,-116.419389,Roads
+Manchester,A013,Replace old water pipes on Elm St,07-11-2025,due,43.193852,-71.572395,Water
+Newark,A014,Upgrade lighting at Broad St,21-12-2025,due,40.058324,-74.405661,Power
+Albuquerque,A015,Repave Central Ave,14-11-2025,on-time,34.97273,-105.032363,Roads
+New York,B009,Fix water main break on 5th Ave,01-12-2025,due,43.299428,-74.217933,Water
+Charlotte,B010,Restore streetlights on Tryon St,09-11-2025,on-time,35.759573,-79.0193,Power
+Fargo,C009,Patch potholes on Main Ave,18-11-2025,on-time,47.551493,-101.002012,Roads
+Columbus,C010,Repair broken hydrants on High St,24-11-2025,late,40.417287,-82.907123,Water
+Oklahoma City,A016,Upgrade substation near Reno Ave,19-12-2025,due,35.007752,-97.092877,Power
+Portland,A017,Repave Hawthorne Blvd,11-12-2025,late,43.804133,-120.554201,Roads
+Philadelphia,A018,Restore water flow on Market St,29-10-2025,on-time,41.203322,-77.194525,Water
+Providence,B011,Repair broken streetlights on Hope St,02-11-2025,due,41.580095,-71.477429,Power
+Charleston,B012,Resurface King St,06-12-2025,due,33.836081,-81.163725,Roads
+Sioux Falls,C011,Fix water pump on Minnesota Ave,28-11-2025,late,43.969515,-99.901813,Water
+Nashville,C012,Install new transformers near Broadway,07-11-2025,due,35.517491,-86.580447,Power
+Houston,A019,Resurface Westheimer Rd,10-11-2025,on-time,31.968599,-99.901813,Roads
+Salt Lake City,A020,Fix water leakage on State St,17-12-2025,late,39.32098,-111.093731,Water
+Burlington,A021,Upgrade main power lines on Church St,13-12-2025,due,44.558803,-72.577841,Power
+Richmond,B013,Repave Cary St,05-11-2025,late,37.431573,-78.656894,Roads
+Seattle,B014,Restore water pressure on Pike St,15-12-2025,on-time,47.751074,-120.740139,Water
+Charleston,C013,Repair broken streetlights on Capitol St,18-11-2025,late,38.597626,-80.454903,Power
+Milwaukee,C014,Patch potholes on Wisconsin Ave,22-12-2025,on-time,43.78444,-88.787868,Roads
+Cheyenne,A022,Fix water leakage on Lincolnway,27-11-2025,on-time,43.075968,-107.290284,Water
+Alaska,A023,Fix potholes on Main St,20-11-2025,on-time,63.588753,-154.493062,Roads
+Alabama,A024,Restore water pressure in downtown,30-11-2025,due,32.318231,-86.902298,Water
+Arkansas,B015,Repair broken streetlight on 5th Ave,15-10-2025,late,35.20105,-91.831833,Power
+Arizona,B016,Ensure park lighting is operational,25-11-2025,due,34.048928,-111.093731,Power
+California,C015,Resolve sewage block on Elm St,28-10-2025,due,36.778261,-119.417932,Water
+Colorado,C016,Repave Oak St,15-12-2025,on-time,39.550051,-105.782067,Roads
+Connecticut,A025,Fix water leakage on 1st St,10-11-2025,due,41.603221,-73.087749,Power
